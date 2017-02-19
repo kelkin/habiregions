@@ -58,7 +58,7 @@
         "y": 32, 
         "x": 56,
 		"gr_state": 1,
-		"open_flags": 3,
+		"open_flags": 0,
 		"connection": "context-test",
         "type": "Door"
       }
@@ -132,7 +132,7 @@
         "orientation": 1,  
         "y": 32, 
         "x": 96,
-		"open_flags": 2,
+		"open_flags": 0,
 		"connection": "context-test",
         "type": "Door"
       }

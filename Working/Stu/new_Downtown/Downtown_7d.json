@@ -113,7 +113,7 @@
         "x": 68,
         "type": "Door", 
         "orientation": 56,
-		"open_flags": 2,
+		"open_flags": 0,
 		"connection": "context-test"
       }
     ], 

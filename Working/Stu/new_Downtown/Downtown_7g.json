@@ -322,7 +322,7 @@
         "gr_state": 1, 
         "y": 33, 
         "x": 52,
-		"open_flags": 3,
+		"open_flags": 0,
 		"connection": "context-test"
       }
     ], 
