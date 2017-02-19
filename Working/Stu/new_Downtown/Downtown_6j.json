@@ -57,7 +57,7 @@
         "x": 40,
 		"gr_state": 1,
         "type": "Door",
-        "open_flags": 3,		
+        "open_flags": 0,		
         "orientation": 228,
 		"connection": "context-test"
       }

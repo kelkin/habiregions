@@ -59,7 +59,7 @@
 		"y": 32, 
         "orientation": 252, 
         "gr_state": 1, 
-        "open_flags": 3,
+        "open_flags": 0,
 		"connection": "context-test"
       }
     ], 
