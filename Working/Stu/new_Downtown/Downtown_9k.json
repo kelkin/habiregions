@@ -8,7 +8,8 @@
       {
         "town_dir": "", 
         "port_dir": "", 
-        "type": "Region", 
+        "type": "Region",
+        "orientation": 2,		
         "neighbors": [
           "", 
           "context-Downtown_9j", 

@@ -8,7 +8,8 @@
       {
         "town_dir": "", 
         "port_dir": "", 
-        "type": "Region", 
+        "type": "Region",
+        "orientation": 3,		
         "neighbors": [
           "context-Downtown_6d", 
           "context-Downtown_5c", 
@@ -88,7 +89,7 @@
         "orientation": 0, 
         "y": 32, 
         "x": 16,
-		"open_flags": 3,
+		"open_flags": 0,
 		"connection": "context-test",
         "type": "Door"
       }
