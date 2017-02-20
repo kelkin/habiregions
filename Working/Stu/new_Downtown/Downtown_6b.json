@@ -56,8 +56,7 @@
       {
         "style": 1, 
         "orientation": 220, 
-        "open_flags": 2, 
-        "gr_state": 1, 
+        "open_flags": 2,
         "y": 32, 
         "x": 52,
         "connection": "context-Downtown_6a",		
