@@ -1,0 +1,29 @@
+@region $ Woods_5f {
+    north: Woods_5g.l;
+    east: Woods_6f.l;
+    west: Woods_3c.l;
+    region_orientation: FACE_WEST;
+    [
+        @ground { x:0; y:4; or:204; }
+        @wall { x:0; y:0; or:0; style:4; }
+        
+        
+        
+        @plant { x:24; y:148; or:32; style:2; 8:1; }
+        @picture { x:56; y:73; or:0; gr_state:1; 
+            8:0;
+            9:0;
+        }
+        @picture { x:56; y:62; or:0; gr_state:4; 
+            8:0;
+            9:0;
+        }
+        
+        @plant { x:88; y:159; or:33; style:2; 
+            8:1;
+        }
+        @plant { x:108; y:157; or:33; style:2; 
+            8:1;
+        }
+    ]
+}

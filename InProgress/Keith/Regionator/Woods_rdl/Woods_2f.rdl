@@ -1,0 +1,28 @@
+@region $ Woods_2f {
+    east: Woods_3f.l;
+    region_orientation: FACE_WEST;
+    [
+        @ground { x:0; y:4; or:204; }
+        @sky { x:0; y:0; or:0; style:4; }
+        @tree { x:12; y:35; or:188; }
+        @tree { x:36; y:80; or:0; style:7; }
+        @tree { x:12; y:66; or:196; gr_state:3; }
+        @tree { x:36; y:35; or:0; style:7; }
+        @tree { x:8; y:66; or:197; gr_state:3; }
+        
+        
+        @tree { x:36; y:46; or:0; style:7; }
+        @trapezoid { x:56; y:34; or:204; 
+            8:1;
+            9:14;
+            10:44;
+            11:240;
+            12:61;
+            13:69;
+        }
+        @tree { x:36; y:57; or:0; style:7; }
+        @tree { x:36; y:68; or:0; style:7; }
+        @tree { x:44; y:84; or:0; style:7; }
+        @tree { x:52; y:84; or:0; style:7; }
+    ]
+}
