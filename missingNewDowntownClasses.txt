@@ -1,0 +1,26 @@
+Missing new_Downtown Classes - 02/27/2017
+-----------------------------------------
+vendo_inside
+vendo_front
+Movie_camera
+Paper
+Ball
+Fake_gun
+Matchbook
+Stereo
+escape_device
+wind_up_toy
+gemstone
+ring
+amulet
+crystal_ball
+magic_lamp
+magic_staff
+magic_wand
+book
+shovel
+security_device
+sensor
+safe
+knife
+bureaucrat
