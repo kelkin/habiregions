@@ -1,0 +1,144 @@
+[
+  {
+    "ref": "context-Downtown_7f", 
+    "capacity": 64, 
+    "type": "context", 
+    "name": "Broadway Cross", 
+    "mods": [
+      {
+        "town_dir": "", 
+        "neighbors": [
+          "context-Downtown_7g", 
+          "context-Woods_5x", 
+          "context-Downtown_7e", 
+          "context-Downtown_6f"
+        ], 
+        "orientation": 0, 
+        "nitty_bits": 3, 
+        "port_dir": "", 
+        "type": "Region"
+      }
+    ]
+  }, 
+  {
+    "ref": "item-sky.f0b2.Downtown_7f", 
+    "mods": [
+      {
+        "y": 0, 
+        "x": 0, 
+        "style": 4, 
+        "type": "Sky", 
+        "orientation": 0
+      }
+    ], 
+    "type": "item", 
+    "name": "Sky", 
+    "in": "context-Downtown_7f"
+  }, 
+  {
+    "ref": "item-ground.53dd.Downtown_7f", 
+    "mods": [
+      {
+        "y": 4, 
+        "x": 0, 
+        "style": 1, 
+        "type": "Ground", 
+        "orientation": 228
+      }
+    ], 
+    "type": "item", 
+    "name": "Ground", 
+    "in": "context-Downtown_7f"
+  }, 
+  {
+    "ref": "item-street.6e79.Downtown_7f", 
+    "mods": [
+      {
+        "orientation": 8, 
+        "height": 0, 
+        "width": 0, 
+        "gr_state": 13, 
+        "y": 11, 
+        "x": 68, 
+        "type": "Street"
+      }
+    ], 
+    "type": "item", 
+    "name": "Street", 
+    "in": "context-Downtown_7f"
+  }, 
+  {
+    "ref": "item-flag.54d0.Downtown_7f", 
+    "mods": [
+      {
+        "y": 137, 
+        "x": 24, 
+        "mass": 1,
+        "gr_width": 4,		
+        "type": "Flag", 
+        "orientation": 204
+      }
+    ], 
+    "type": "item", 
+    "name": "Flag", 
+    "in": "context-Downtown_7f"
+  }, 
+  {
+    "ref": "item-sky.bb78.Downtown_7f", 
+    "mods": [
+      {
+        "y": 0, 
+        "x": 0, 
+        "type": "Sky", 
+        "orientation": 220
+      }
+    ], 
+    "type": "item", 
+    "name": "Sky", 
+    "in": "context-Downtown_7f"
+  }, 
+  {
+    "ref": "item-flag.17f6.Downtown_7f", 
+    "mods": [
+      {
+        "y": 137, 
+        "x": 132, 
+        "mass": 1,
+		"gr_width": 4,
+        "type": "Flag", 
+        "orientation": 244
+      }
+    ], 
+    "type": "item", 
+    "name": "Flag", 
+    "in": "context-Downtown_7f"
+  }, 
+  {
+    "ref": "item-short_sign.bf41.Downtown_7f", 
+    "mods": [
+      {
+        "style": 5, 
+        "orientation": 236, 
+        "ascii": [
+          66, 
+          114, 
+          111, 
+          97, 
+          100, 
+          119, 
+          97, 
+          121, 
+          32, 
+          32
+        ], 
+        "gr_state": 7, 
+        "y": 129, 
+        "x": 136, 
+        "type": "Short_sign"
+      }
+    ], 
+    "type": "item", 
+    "name": "Short_sign", 
+    "in": "context-Downtown_7f"
+  }
+]
