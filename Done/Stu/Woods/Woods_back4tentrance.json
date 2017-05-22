@@ -1,0 +1,288 @@
+[
+  {
+    "ref": "context-Woods_back4tentrance", 
+    "capacity": 64, 
+    "type": "context", 
+    "name": "Back 4t Entrance", 
+    "mods": [
+      {
+        "town_dir": "\", 
+        "port_dir": "\", 
+        "type": "Region", 
+        "neighbors": [
+          "context-Woods_7u", 
+          "context-Woods_6t", 
+          "context-Woods_5u", 
+          "context-Woods_6v"
+        ], 
+        "nitty_bits": 3
+      }
+    ]
+  }, 
+  {
+    "ref": "item-grounda5ad.Woodsback4tentrance", 
+    "mods": [
+      {
+        "y": 4, 
+        "x": 0, 
+        "type": "Ground", 
+        "orientation": 204
+      }
+    ], 
+    "type": "item", 
+    "name": "Ground", 
+    "in": "context-Woods_back4tentrance"
+  }, 
+  {
+    "ref": "item-sky5dd5.Woodsback4tentrance", 
+    "mods": [
+      {
+        "y": 0, 
+        "x": 0, 
+        "style": 4, 
+        "type": "Sky", 
+        "orientation": 0
+      }
+    ], 
+    "type": "item", 
+    "name": "Sky", 
+    "in": "context-Woods_back4tentrance"
+  }, 
+  {
+    "ref": "item-street72db.Woodsback4tentrance", 
+    "mods": [
+      {
+        "orientation": 104, 
+        "type": "Street", 
+        "gr_state": 14, 
+        "y": 12, 
+        "x": 68
+      }
+    ], 
+    "type": "item", 
+    "name": "Street", 
+    "in": "context-Woods_back4tentrance"
+  }, 
+  {
+    "ref": "item-tree1673.Woodsback4tentrance", 
+    "mods": [
+      {
+        "y": 32, 
+        "x": 100, 
+        "style": 1, 
+        "type": "Tree", 
+        "orientation": 188
+      }
+    ], 
+    "type": "item", 
+    "name": "Tree", 
+    "in": "context-Woods_back4tentrance"
+  }, 
+  {
+    "ref": "item-treec6cc.Woodsback4tentrance", 
+    "mods": [
+      {
+        "y": 35, 
+        "x": 32, 
+        "type": "Tree", 
+        "orientation": 172
+      }
+    ], 
+    "type": "item", 
+    "name": "Tree", 
+    "in": "context-Woods_back4tentrance"
+  }, 
+  {
+    "ref": "item-tree12f5.Woodsback4tentrance", 
+    "mods": [
+      {
+        "y": 134, 
+        "x": 52, 
+        "style": 1, 
+        "type": "Tree", 
+        "orientation": 16
+      }
+    ], 
+    "type": "item", 
+    "name": "Tree", 
+    "in": "context-Woods_back4tentrance"
+  }, 
+  {
+    "ref": "item-treec677.Woodsback4tentrance", 
+    "mods": [
+      {
+        "y": 44, 
+        "x": 132, 
+        "style": 1, 
+        "type": "Tree", 
+        "orientation": 228
+      }
+    ], 
+    "type": "item", 
+    "name": "Tree", 
+    "in": "context-Woods_back4tentrance"
+  }, 
+  {
+    "ref": "item-tree7c08.Woodsback4tentrance", 
+    "mods": [
+      {
+        "y": 133, 
+        "x": 120, 
+        "type": "Tree", 
+        "orientation": 0
+      }
+    ], 
+    "type": "item", 
+    "name": "Tree", 
+    "in": "context-Woods_back4tentrance"
+  }, 
+  {
+    "ref": "item-tree3744.Woodsback4tentrance", 
+    "mods": [
+      {
+        "y": 75, 
+        "x": 32, 
+        "type": "Tree", 
+        "orientation": 188, 
+        "gr_state": 3
+      }
+    ], 
+    "type": "item", 
+    "name": "Tree", 
+    "in": "context-Woods_back4tentrance"
+  }, 
+  {
+    "ref": "item-tree6159.Woodsback4tentrance", 
+    "mods": [
+      {
+        "y": 31, 
+        "x": 0, 
+        "style": 1, 
+        "type": "Tree", 
+        "orientation": 64
+      }
+    ], 
+    "type": "item", 
+    "name": "Tree", 
+    "in": "context-Woods_back4tentrance"
+  }, 
+  {
+    "ref": "item-treecd86.Woodsback4tentrance", 
+    "mods": [
+      {
+        "y": 71, 
+        "x": 32, 
+        "type": "Tree", 
+        "orientation": 189, 
+        "gr_state": 3
+      }
+    ], 
+    "type": "item", 
+    "name": "Tree", 
+    "in": "context-Woods_back4tentrance"
+  }, 
+  {
+    "ref": "item-rockbd3f.Woodsback4tentrance", 
+    "mods": [
+      {
+        "y": 138, 
+        "x": 48, 
+        "mass": 1, 
+        "type": "Rock", 
+        "orientation": 0
+      }
+    ], 
+    "type": "item", 
+    "name": "Rock", 
+    "in": "context-Woods_back4tentrance"
+  }, 
+  {
+    "ref": "item-rockc5d4.Woodsback4tentrance", 
+    "mods": [
+      {
+        "style": 1, 
+        "orientation": 32, 
+        "mass": 1, 
+        "y": 158, 
+        "x": 24, 
+        "type": "Rock"
+      }
+    ], 
+    "type": "item", 
+    "name": "Rock", 
+    "in": "context-Woods_back4tentrance"
+  }, 
+  {
+    "ref": "item-rock222d.Woodsback4tentrance", 
+    "mods": [
+      {
+        "style": 1, 
+        "orientation": 72, 
+        "mass": 1, 
+        "y": 139, 
+        "x": 132, 
+        "type": "Rock"
+      }
+    ], 
+    "type": "item", 
+    "name": "Rock", 
+    "in": "context-Woods_back4tentrance"
+  }, 
+  {
+    "ref": "item-tree890f.Woodsback4tentrance", 
+    "mods": [
+      {
+        "y": 129, 
+        "x": 4, 
+        "style": 11, 
+        "type": "Tree", 
+        "orientation": 8
+      }
+    ], 
+    "type": "item", 
+    "name": "Tree", 
+    "in": "context-Woods_back4tentrance"
+  },
+  {
+    "ref": "item-sign1.Woodsback4tentrance, 
+    "mods": [
+      {
+        "style": 6, 
+        "orientation": 16, 
+        "ascii": [
+		  129,
+          68,
+		  69,
+		  65,
+		  84,
+		  72,
+		  134,
+		  65,
+		  87,
+		  65,
+		  73,
+		  84,
+		  83,
+		  134,
+		  32,
+		  89,
+		  69,
+		  33,
+		  134,
+		  125,
+		  125,
+		  125,
+		  125,
+		  125,
+		  125
+        ], 
+        "y": 133, 
+        "x": 98, 
+        "type": "Sign"
+      }
+    ], 
+    "type": "item", 
+    "name": "Sign", 
+    "in": "context-Woods_back4tentrance"
+  }
+]
